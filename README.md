@@ -5,7 +5,7 @@ Home page
 About
 Cart
 Products
-Product detais
+Product details
 My account
 #### Home page
 Navigation bar
