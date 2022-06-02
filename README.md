@@ -9,7 +9,7 @@ Product details
 My account
 #### Home page
 Navigation bar
-Slider/jumbotron
+Slider/jumbotron 
 Categories sidebar
 Featured products
 Footer
